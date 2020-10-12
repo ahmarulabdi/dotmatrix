@@ -1,0 +1,17 @@
+{
+    "name": "rndmjck/dotmatrix",
+    "description": "print out data into dot matrix printer",
+    "authors": [
+        {
+            "name": "ahmarulabdi",
+            "email": "rndmjck@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "RandomJocker\\DotMatrix\\": "src"
+        }
+    },
+    "require": {}
+}
